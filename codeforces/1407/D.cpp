@@ -6,9 +6,9 @@
 using namespace std;
 /// Pragmas:
 //#pragma GCC optimize ("Ofast")
-//#pragma GCC optimize("Ofast","unroll-loops","omit-frame-pointer","inline") //Optimization flags
-//#pragma GCC option("arch=native","tune=native","no-zero-upper") //Enable AVX
-//#pragma GCC target("avx2") //Enable AVX
+#pragma GCC optimize("Ofast","unroll-loops","omit-frame-pointer","inline") //Optimization flags
+#pragma GCC option("arch=native","tune=native","no-zero-upper") //Enable AVX
+#pragma GCC target("avx2") //Enable AVX
 /// Macros:
 #define int long long
 #define f first
