@@ -702,6 +702,23 @@
     ],
     "timestamp": "Dec/20/2020 11:42"
   },
+  "CF93988328": {
+    "contest_id": 1416,
+    "language": "GNU C++17",
+    "path": "codeforces/1416/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Make Them Equal",
+    "problem_url": "https://codeforces.com/contest/1416/problem/B",
+    "submission_id": "CF93988328",
+    "submission_url": "https://codeforces.com/contest/1416/submission/93988328",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Sep/27/2020 11:38"
+  },
   "CF94001355": {
     "contest_id": 1416,
     "language": "GNU C++17",
