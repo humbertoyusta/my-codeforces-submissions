@@ -702,6 +702,22 @@
     ],
     "timestamp": "Dec/20/2020 11:42"
   },
+  "CF94525372": {
+    "contest_id": 1015,
+    "language": "GNU C++17",
+    "path": "codeforces/1015/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Walking Between Houses",
+    "problem_url": "https://codeforces.com/contest/1015/problem/D",
+    "submission_id": "CF94525372",
+    "submission_url": "https://codeforces.com/contest/1015/submission/94525372",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Oct/02/2020 18:23"
+  },
   "CF94525657": {
     "contest_id": 263,
     "language": "GNU C++17",
