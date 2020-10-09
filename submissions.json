@@ -702,6 +702,21 @@
     ],
     "timestamp": "Dec/20/2020 11:42"
   },
+  "CF95007842": {
+    "contest_id": 332,
+    "language": "GNU C++17",
+    "path": "codeforces/332/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Down the Hatch!",
+    "problem_url": "https://codeforces.com/contest/332/problem/A",
+    "submission_id": "CF95007842",
+    "submission_url": "https://codeforces.com/contest/332/submission/95007842",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/09/2020 13:05"
+  },
   "CF95094769": {
     "contest_id": 1427,
     "language": "GNU C++17",
