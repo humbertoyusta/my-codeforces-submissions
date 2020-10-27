@@ -702,6 +702,22 @@
     ],
     "timestamp": "Dec/20/2020 11:42"
   },
+  "CF96893963": {
+    "contest_id": 1437,
+    "language": "GNU C++17",
+    "path": "codeforces/1437/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Reverse Binary Strings",
+    "problem_url": "https://codeforces.com/contest/1437/problem/B",
+    "submission_id": "CF96893963",
+    "submission_url": "https://codeforces.com/contest/1437/submission/96893963",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Oct/27/2020 11:19"
+  },
   "CF96909990": {
     "contest_id": 1437,
     "language": "GNU C++17",
