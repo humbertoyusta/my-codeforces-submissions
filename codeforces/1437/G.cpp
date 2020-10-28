@@ -77,7 +77,7 @@ struct node{
         leaf = 0;
         pch = tpch;
         p = tp;
-        val = -1;
+        val = 0;
     }
 };
 vector<node> AHC;
@@ -151,7 +151,7 @@ void AHC_build(int nod){
 
 int check(int nod){
     int ret = -1;
-    if( nod >= 0 ) ret = max( ret , AHC[nod].val );
+    if( nod >= 0 && !AHC[nod].s.empty() ) ret = max( ret , (*(--(AHC[nod].s).end())).f );
     if( nod <= 0 ) return ret;
     ret = max( ret , check(end_link(nod)) );
     return ret;
@@ -180,7 +180,6 @@ int32_t main(){
 
     for(int i=1; i<=n; i++){
         AHC[id[i]].s.insert({0,i});
-        AHC[id[i]].val = 0;
     }
 
     for(int i=1; i<=q; i++){
@@ -191,7 +190,6 @@ int32_t main(){
             AHC[id[u]].s.erase({val[u],u});
             val[u] = v;
             AHC[id[u]].s.insert({val[u],u});
-            AHC[id[u]].val = (*(--(AHC[id[u]].s).end())).f;
         }
         if( typ == 2 ){
             string s;
