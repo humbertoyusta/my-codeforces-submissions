@@ -702,6 +702,23 @@
     ],
     "timestamp": "Dec/20/2020 11:42"
   },
+  "CF98450579": {
+    "contest_id": 1446,
+    "language": "GNU C++17",
+    "path": "codeforces/1446/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Knapsack",
+    "problem_url": "https://codeforces.com/contest/1446/problem/A",
+    "submission_id": "CF98450579",
+    "submission_url": "https://codeforces.com/contest/1446/submission/98450579",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Nov/15/2020 09:47"
+  },
   "CF98457040": {
     "contest_id": 1446,
     "language": "GNU C++17",
