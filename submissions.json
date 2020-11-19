@@ -702,6 +702,25 @@
     ],
     "timestamp": "Dec/20/2020 11:42"
   },
+  "CF98979339": {
+    "contest_id": 1452,
+    "language": "GNU C++17",
+    "path": "codeforces/1452/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Two Editorials",
+    "problem_url": "https://codeforces.com/contest/1452/problem/E",
+    "submission_id": "CF98979339",
+    "submission_url": "https://codeforces.com/contest/1452/submission/98979339",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "Nov/19/2020 13:21"
+  },
   "CF99044148": {
     "contest_id": 1205,
     "language": "GNU C++17",
