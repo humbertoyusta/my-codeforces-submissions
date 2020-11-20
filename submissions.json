@@ -702,6 +702,24 @@
     ],
     "timestamp": "Dec/20/2020 11:42"
   },
+  "CF99044148": {
+    "contest_id": 1205,
+    "language": "GNU C++17",
+    "path": "codeforces/1205/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Shortest Cycle",
+    "problem_url": "https://codeforces.com/contest/1205/problem/B",
+    "submission_id": "CF99044148",
+    "submission_url": "https://codeforces.com/contest/1205/submission/99044148",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "graphs",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "Nov/20/2020 10:47"
+  },
   "CF99271422": {
     "contest_id": 1439,
     "language": "GNU C++17",
