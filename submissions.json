@@ -701,5 +701,21 @@
       "number theory"
     ],
     "timestamp": "Dec/20/2020 11:42"
+  },
+  "CF99995069": {
+    "contest_id": 1455,
+    "language": "GNU C++17",
+    "path": "codeforces/1455/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Strange Functions",
+    "problem_url": "https://codeforces.com/contest/1455/problem/A",
+    "submission_id": "CF99995069",
+    "submission_url": "https://codeforces.com/contest/1455/submission/99995069",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Nov/30/2020 09:38"
   }
 }
