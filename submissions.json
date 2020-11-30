@@ -1,4 +1,20 @@
 {
+  "CF100068892": {
+    "contest_id": 1455,
+    "language": "GNU C++17",
+    "path": "codeforces/1455/F.cpp",
+    "problem_index": "F",
+    "problem_name": "String and Operations",
+    "problem_url": "https://codeforces.com/contest/1455/problem/F",
+    "submission_id": "CF100068892",
+    "submission_url": "https://codeforces.com/contest/1455/submission/100068892",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "Nov/30/2020 16:13"
+  },
   "CF100207741": {
     "contest_id": 1456,
     "language": "GNU C++17",
