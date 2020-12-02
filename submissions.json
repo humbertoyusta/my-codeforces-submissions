@@ -1,4 +1,21 @@
 {
+  "CF100207741": {
+    "contest_id": 1456,
+    "language": "GNU C++17",
+    "path": "codeforces/1456/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Bouncing Ball",
+    "problem_url": "https://codeforces.com/contest/1456/problem/A",
+    "submission_id": "CF100207741",
+    "submission_url": "https://codeforces.com/contest/1456/submission/100207741",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Dec/02/2020 11:04"
+  },
   "CF100208555": {
     "contest_id": 1456,
     "language": "GNU C++17",
