@@ -1,4 +1,20 @@
 {
+  "CF100470467": {
+    "contest_id": 367,
+    "language": "GNU C++17",
+    "path": "codeforces/367/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Sereja and Intervals",
+    "problem_url": "https://codeforces.com/contest/367/problem/E",
+    "submission_id": "CF100470467",
+    "submission_url": "https://codeforces.com/contest/367/submission/100470467",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2700"
+    ],
+    "timestamp": "Dec/05/2020 12:08"
+  },
   "CF100527331": {
     "contest_id": 1450,
     "language": "GNU C++17",
