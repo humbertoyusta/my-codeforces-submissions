@@ -1,4 +1,22 @@
 {
+  "CF101595400": {
+    "contest_id": 1463,
+    "language": "GNU C++17",
+    "path": "codeforces/1463/F.cpp",
+    "problem_index": "F",
+    "problem_name": "Max Correct Set",
+    "problem_url": "https://codeforces.com/contest/1463/problem/F",
+    "submission_id": "CF101595400",
+    "submission_url": "https://codeforces.com/contest/1463/submission/101595400",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "math",
+      "*3100"
+    ],
+    "timestamp": "Dec/17/2020 15:59"
+  },
   "CF101595560": {
     "contest_id": 1463,
     "language": "GNU C++17",
